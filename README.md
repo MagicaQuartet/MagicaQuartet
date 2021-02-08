@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://github.com/MagicaQuartet/MagicaQuartet/blob/master/github-metrics.svg)
+![Metrics](https://github.com/MagicaQuartet/MagicaQuartet/blob/master/metrics.classic.svg)
+
+![Metrics](https://github.com/MagicaQuartet/MagicaQuartet/blob/master/metrics.plugin.languages.svg)
+
+![Metrics](https://github.com/MagicaQuartet/MagicaQuartet/blob/master/metrics.plugin.isocalendar.svg)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kaname_madoka)](https://solved.ac/kaname_madoka)

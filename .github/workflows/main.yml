@@ -34,5 +34,5 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: c, perl, makefile, assembly
+          plugin_languages_skipped: algorithm, CS341, CS376, CS330, CS380, CS420, CS320, CS322, CS230, MagicaQuartet, MagicaQuartet.github.io, productive-box, lowlighter
           plugins_errors_fatal: ${{ github.repository == 'MagicaQuartet/MagicaQuartet' }}

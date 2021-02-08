@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](https://github.com/MagicaQuartet/MagicaQuartet/blob/master/github-metrics.svg)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kaname_madoka)](https://solved.ac/kaname_madoka)

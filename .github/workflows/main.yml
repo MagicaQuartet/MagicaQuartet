@@ -30,7 +30,7 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'MagicaQuartet/MagicaQuartet' }}
           
       - name: 🈷️ Languages plugin
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.PERSONAL_TOKEN_MAGICAQUARTET }}

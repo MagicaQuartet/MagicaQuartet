@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Metrics](https://github.com/MagicaQuartet/MagicaQuartet/blob/master/metrics.classic.svg)
 
-![Metrics](https://github.com/MagicaQuartet/MagicaQuartet/blob/master/metrics.plugin.languages.svg)
+<!-- ![Metrics](https://github.com/MagicaQuartet/MagicaQuartet/blob/master/metrics.plugin.languages.svg) -->
 
 ![Metrics](https://github.com/MagicaQuartet/MagicaQuartet/blob/master/metrics.plugin.isocalendar.svg)
 

@@ -35,5 +35,5 @@ jobs:
           base: ""
           plugin_languages: yes
           # plugin_languages_ignored: c, perl, makefile, assembly, glsl, racket, dockerfile, objective-c, c++
-          plugin_languages_skipped: "algorithm, CS341, CS376, CS330, CS380, CS420, CS320, CS322, CS230, MagicaQuartet, MagicaQuartet.github.io, productive-box, lowlighter"
+          plugin_languages_skipped: MagicaQuartet/algorithm, MagicaQuartet/CS341, MagicaQuartet/CS376, MagicaQuartet/CS330, MagicaQuartet/CS380, MagicaQuartet/CS420, MagicaQuartet/CS320, MagicaQuartet/CS322, MagicaQuartet/CS230, MagicaQuartet/MagicaQuartet, MagicaQuartet/MagicaQuartet.github.io, MagicaQuartet/productive-box, MagicaQuartet/lowlighter
           plugins_errors_fatal: ${{ github.repository == 'MagicaQuartet/MagicaQuartet' }}
